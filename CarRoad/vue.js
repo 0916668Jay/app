@@ -1,1 +1,1 @@
-window.location.href='http://103.197.69.182:8086'
+window.location.href='http://45.118.250.59:8086'
